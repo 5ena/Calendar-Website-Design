@@ -6,7 +6,7 @@
 <img src="image.png" align="right" width="600" height="300">
 Responsive Calendar Website Design 
 <br>
-<i class="icon-chevron-sign-right">I used HTML CSS and JavaScript</i> 
+<i class="icon-chevron-sign-right"></i> I used HTML CSS and JavaScript
 <br>
 - We can add tags.
 <br>
