@@ -1,5 +1,5 @@
 # Calendar Website Design
 
 
-<img src="image.png" width="200" height="100">
+<img src="image.png" width="500" height="500">
 
